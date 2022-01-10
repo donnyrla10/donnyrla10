@@ -7,4 +7,4 @@
 ### Experience
 - Sookmyung Women University, Software Convergence (2017.03 ~ )
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=donna1030">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=donna1030">
