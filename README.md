@@ -1,11 +1,14 @@
 # Hello World! 👾
 
 ### about nyeong 🐯
-- 🌱 I’m currently learning iOS, Unity, Algorithm, c++, etc...
+- 🌱 I’m currently learning iOS, Unity, Algorithm, c++, Swfit, etc...
 - 🏫 I major in software convergence.
 
 ### Experience
 - 🎓 Sookmyung Women University, Software Convergence (2017.03 ~ )
+
+### Projects
+- [Hand-Gestrue-Recogintion (ComputerVision)](https://github.com/donnyrla10/Hand-Gesture-Recognition)
 
 <br>
 
