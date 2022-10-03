@@ -1,7 +1,7 @@
 # Hello World! 👾
 
 ### about nyeong 🐯
-- 🌱 I’m currently learning iOS, Unity, Algorithm, c++, Swift, ComputerVision, etc...
+- 🌱 I’m currently learning iOS, Swift, SwiftUI, Mobile UI/UX, etc...
 - 🏫 I major in software convergence.
 
 ### Experience
