@@ -8,11 +8,12 @@
 - 🎓 Sookmyung Women University, Software Convergence (2017.03 ~ 2022.02)
 
 ### Projects
-- [📄 AboutMe (Swift/iOS)](https://github.com/donnyrla10/AboutMe)
+- [📎 Scrap(SwiftUI)](https://github.com/donnyrla10/Scrap)
+- [☔️ HowWeather(SwiftUI)](https://github.com/donnyrla10/HowWeather)
+
 - [✋🏻 Hand-Gestrue-Recogintion (ComputerVision)](https://github.com/donnyrla10/Hand-Gesture-Recognition)
 - [🛣 Automatic-Lane-Guidance (ComputerVision)](https://github.com/donnyrla10/Automatic-Line-Guidance-System)
 - [🚬 Smoking-Detective-System (DeepLearning/ComputerVision)](https://github.com/donnyrla10/Smoking-Detective-System)
-- [🦠 Anti-Virus (Unity2D)](https://github.com/donnyrla10/GraduationProject)
 
 <br>
 <br>
